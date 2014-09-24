@@ -31,6 +31,7 @@ def checkSousArgs(arg):
         return 0
     except ValueError:
         print ("Impossible de convertir \"" + arg[1] + "\" en nombre entier !")
+        print("Veuillez saisir un nombre entier !")
         exit(1)
 
 ''' Vérifie qu'un nombre est un entier naturel '''
