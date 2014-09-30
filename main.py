@@ -1,4 +1,6 @@
 import argparse
+import logging
+
 '''creation d'un objet'''
 parser = argparse.ArgumentParser()
 '''ajout d'arguments'''
