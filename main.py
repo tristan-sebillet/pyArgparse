@@ -1,6 +1,8 @@
 import argparse
 import logging
 
+logging.basicConfig(filename='le_fichier_de.log')
+
 '''creation d'un objet'''
 parser = argparse.ArgumentParser()
 '''ajout d'arguments'''
@@ -40,10 +42,10 @@ def checkSousArgs(arg):
 def checkIntNatural(nb):
     if nb > 0:
         return True
-checkSousArgs(args.artiste)
-checkSousArgs(args.album)
-checkSousArgs(args.sousgenre)
-checkSousArgs(args.genre)
+
+
+
+
 
 '''affichage des arguments saisis'''
 print(args.nom_playlist+" a pour duree: "+str(args.temps)+" minutes.")
@@ -53,20 +55,20 @@ if args.titre:
     print("titre choisi:"+(args.titre))
 
 if args.genre:
+    checkSousArgs(args.genre)
     print("Vous avez choisi:"+(args.genre[1])+"% du genre "+(args.genre[0]) )
 
-
 if args.sousgenre:
+    checkSousArgs(args.sousgenre)
     print("vous avez choisi:"+(args.sousgenre[1])+"% du sousgenre "+(args.sousgenre[0]) )
 
-
 if args.artiste:
+    checkSousArgs(args.artiste)
     print("vous avez choisi:"+(args.artiste[1])+"% de l'artiste "+(args.artiste[0]) )
 
-
 if args.album :
+    checkSousArgs(args.album)
     print("vous avez choisi:"+(args.album[1])+"% de l'album "+(args.album[0]) )
-
 
 if args.format:
     print("format choisi:"+(args.format) )
