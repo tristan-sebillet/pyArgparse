@@ -45,6 +45,9 @@ def checkSousArgs2(arg):
 def checkIntNatural(nb):
     if (nb > 0) :
         return True
+    else:
+        return False
+
 
 
 '''affichage des arguments saisis'''
