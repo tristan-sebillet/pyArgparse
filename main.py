@@ -31,6 +31,7 @@ def checkSousArgs(arg):
         nb = int(arg[1])
         if (checkIntNatural(nb) == False):
             print ("La quantité doit être positive ! (" + arg[1] + ")")
+            logging.warning('La quantité saisie doit etre positive')
             exit(1)
         return 0
     except ValueError:
