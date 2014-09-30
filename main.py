@@ -1,10 +1,11 @@
 import argparse
 import logging
 
-logging.basicConfig(filename='le_fichier_de.log')
+logging.basicConfig(filename='le_fichier_de.log',level=logging.DEBUG)
 
 '''creation d'un objet'''
 parser = argparse.ArgumentParser()
+logging.info("objet créer")
 '''ajout d'arguments'''
 parser.add_argument("nom_playlist", help="Veuillez saisir le nom de votre playlist")
 
@@ -26,7 +27,8 @@ parser.add_argument("--format", choices=['m3u','xspf'])
 args = parser.parse_args()
 
 ''' Fonction de vérification des sous arguments '''
-def checkSousArgs(arg):
+def checkSousArgs2(arg):
+    logging.info("verifie argument 2")
     try:
         nb = int(arg[1])
         if (checkIntNatural(nb) == False):
@@ -37,15 +39,12 @@ def checkSousArgs(arg):
     except ValueError:
         print ("Impossible de convertir \"" + arg[1] + "\" en nombre entier !")
         print("Veuillez saisir un nombre entier !")
+        logging.warning('Veuillez saisir un nombre entier')
         exit(1)
-
 ''' Vérifie qu'un nombre est un entier naturel '''
 def checkIntNatural(nb):
-    if nb > 0:
+    if (nb > 0) :
         return True
-
-
-
 
 
 '''affichage des arguments saisis'''
@@ -56,19 +55,19 @@ if args.titre:
     print("titre choisi:"+(args.titre))
 
 if args.genre:
-    checkSousArgs(args.genre)
+    checkSousArgs2(args.genre)
     print("Vous avez choisi:"+(args.genre[1])+"% du genre "+(args.genre[0]) )
 
 if args.sousgenre:
-    checkSousArgs(args.sousgenre)
+    checkSousArgs2(args.sousgenre)
     print("vous avez choisi:"+(args.sousgenre[1])+"% du sousgenre "+(args.sousgenre[0]) )
 
 if args.artiste:
-    checkSousArgs(args.artiste)
+    checkSousArgs2(args.artiste)
     print("vous avez choisi:"+(args.artiste[1])+"% de l'artiste "+(args.artiste[0]) )
 
 if args.album :
-    checkSousArgs(args.album)
+    checkSousArgs2(args.album)
     print("vous avez choisi:"+(args.album[1])+"% de l'album "+(args.album[0]) )
 
 if args.format:
