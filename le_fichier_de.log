@@ -1,0 +1,240 @@
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie doit etre positive
+INFO:root:Nombre négatif transformé en positif: 20
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie est supérieur à 100
+INFO:root:Nombre supérieur à 100 transformé en : 0
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie doit etre positive
+INFO:root:Nombre négatif transformé en positif: 20
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+WARNING:root:La quantité saisie doit etre positive
+INFO:root:Nombre négatif transformé en positif: 20
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+DEBUG:root: *****************************************
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
+INFO:root:objet créer
+INFO:root: Argument --genre :	rock ; 70
+INFO:root:Utilisation de la fonction pour vérifier que le pourcentage est entre 0 et 100
+INFO:root:verifie argument 2
